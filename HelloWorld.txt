@@ -1,0 +1,36 @@
+// Your First Program
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); 
+
+        // please add a Hello to you like the following
+
+        //	a
+        //	b
+        //	c
+        //	d
+        //	e
+        //	f
+        //	g
+        //	h
+        //	i
+        //	j
+        //	k
+        //	l
+        //	m
+        //	n
+        //	o
+        //	p
+        System.out.println("Hello Paul"); 
+        //	q
+        //	r
+        //	s
+        //	t
+        //	u
+        //	v
+        //	x
+        //	y
+        //	z
+    }
+}
